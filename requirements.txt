@@ -1,0 +1,9 @@
+imageio==2.9.0
+matplotlib==3.3.3
+numpy==1.19.5
+opencv-python==4.5.1.48
+scikit-image==0.17.2
+torch==1.7.1+cu110
+torchaudio==0.7.2
+torchvision==0.8.2+cu110
+tqdm==4.56.0

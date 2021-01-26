@@ -10,3 +10,18 @@
 *.mat
 *.npy
 
+# ignore venv
+.venv/
+venv/
+
+# ignore zip-files (pretrained models)
+*.zip
+
+# ignore jupyter files
+.ipynb_checkpoints/
+
+# ignore local log-files
+*.log
+
+# ignore output folder (from eval)
+output/
